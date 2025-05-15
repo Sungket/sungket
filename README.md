@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello! 👋
+
+ - I am a full stack developer, specialising on PHP and the LAMP stack
+ - I am currently working on a Music database website.
+ - I'm learning Laravel
+
 
 <!--
 **Sungket/sungket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
