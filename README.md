@@ -1,7 +1,7 @@
-## Hello! 👋
+## Hi there! 👋
 
  - I am a full stack developer, specialising on PHP and the LAMP stack
- - I am currently working on a Music database website.
+ - I am currently working on a Music database website and a delivery app for small independent shops.
  - I'm learning Laravel
 
 
