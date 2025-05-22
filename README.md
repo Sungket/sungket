@@ -2,7 +2,7 @@
 
  - I am a full stack developer, specialising on PHP and the LAMP stack
  - I am currently working on a Music database website and a delivery app for small independent shops.
- - My current interests are Laravel, Vite and Eloquent.
+ - My current interests are Laravel, Eloquent and Docker.
 
 
 <!--
